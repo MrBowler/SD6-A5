@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SD6 A5 Client", "SD6 A5 Client.vcxproj", "{1C6E4E4E-AE4D-46B0-A946-0511FF6E3D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C6E4E4E-AE4D-46B0-A946-0511FF6E3D52}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1C6E4E4E-AE4D-46B0-A946-0511FF6E3D52}.Debug|Win32.Build.0 = Debug|Win32
+		{1C6E4E4E-AE4D-46B0-A946-0511FF6E3D52}.Release|Win32.ActiveCfg = Release|Win32
+		{1C6E4E4E-AE4D-46B0-A946-0511FF6E3D52}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
